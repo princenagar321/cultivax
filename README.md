@@ -395,13 +395,13 @@ pytest tests/test_security.py -v
 
 ## Team
 
-| Member | Role | Key Contributions |
-|--------|------|-------------------|
-| **Arpit** | Lead | Backend architecture, CTIS engines (replay, stress, drift, simulation), event system, deployment |
-| **Ayush Kumar Meena** | Backend | Auth system, middleware, admin APIs, feature flags, test fixtures |
-| **Ravi Patel** | Backend | SOE module (trust engine, exposure fairness, fraud detection), service requests, reviews |
-| **Prince** | Frontend | All UI pages (18), components (16), dashboard, crop management, admin panel |
-| **Shivam Yadav** | Backend | ML module (risk predictor, model registry), media uploads, weather API, seed data |
+| Member | Role & Specific Contributions |
+|--------|-------------------------------|
+| **Arpit** | **Lead Developer (Full-Stack)**: Core Backend Architecture (FastAPI), CTIS Engines (Stress, Drift, Simulator), Recommendation & Alert Systems, Infrastructure/Cloud Run Deployment, and Frontend Accessibility Features (High Contrast UI & Tooling). |
+| **Shivam Yadav** | **Full-Stack Developer**: Next.js Initialization, Frontend Routing (Sidebar/Protected Routes), Core Database Models (SQLAlchemy/Alembic), System Health & Market Price schemas, and Crop Management UI pages. |
+| **Ravi Patel** | **Full-Stack Developer**: V1 API Controllers & RBAC Security, Core CTIS Backend Services (State Machine, Yield Service), SOE Trust Module, Admin Dashboard UI, and Provider/Service Marketplace Frontend. |
+| **Ayush Kumar Meena** | **Full-Stack Developer**: CTIS Replay Engine & DB-backed Event Dispatcher, Global i18n (Hindi/English) Frontend integration, Core Auth System & Security Middleware. |
+| **Prince** | **Frontend Developer**: Primary UI Components (Data Grids, Charts, Stat Cards), Offline Sync UI, Maps Integration, Error Boundaries, Profile & Settings pages, and overall Frontend polish. |
 
 ---
 
