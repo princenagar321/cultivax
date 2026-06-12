@@ -3,7 +3,7 @@
 **Intelligent Crop Lifecycle Management & Service Orchestration Platform**
 
 CultivaX is a deterministic, event-driven agricultural management system that provides farmers with chronologically accurate crop timeline tracking, intelligent recommendations, and a service marketplace — all built with replay-safe architecture.
-
+> **My Contribution:** Worked as part of the frontend development team to design interactive UI layouts, map complex execution tracks, and visualize real-time agricultural data parameters for end-users.
 ---
 
 ## Tech Stack
